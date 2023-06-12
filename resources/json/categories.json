@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Business",
+        "description": "Starting a business is now very easy and accessible",
+        "icon": "fa-solid fa-briefcase"
+    },
+    {
+        "id": 2,
+        "name": "Startup",
+        "description": "Got an idea for a company? Talk to us and set base for your new startup!",
+        "icon": "fa-solid fa-rocket"
+    },
+    {
+        "id": 3,
+        "name": "Environment",
+        "description": "Concerns with environment and people who surround us",
+        "icon": "fa-solid fa-globe"
+    },
+    {
+        "id": 4,
+        "name": "Technology",
+        "description": "Latest news in latest tech",
+        "icon": "fa-solid fa-laptop-code"
+    },
+    {
+        "id": 5,
+        "name": "Finance",
+        "description": "Stay updated with financial trends and market news",
+        "icon": "fa-solid fa-chart-line"
+    },
+    {
+        "id": 6,
+        "name": "Health",
+        "description": "Tips and information for a healthier lifestyle",
+        "icon": "fa-solid fa-heartbeat"
+    },
+    {
+        "id": 7,
+        "name": "Education",
+        "description": "Learn about the latest educational trends and opportunities",
+        "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+        "id": 8,
+        "name": "Sports",
+        "description": "Keep up with the world of sports and athletic events",
+        "icon": "fa-solid fa-football-ball"
+    },
+    {
+        "id": 9,
+        "name": "Travel",
+        "description": "Discover new places and plan your next adventure",
+        "icon": "fa-solid fa-globe-americas"
+    },
+    {
+        "id": 10,
+        "name": "Art",
+        "description": "Explore the world of art and creativity",
+        "icon": "fa-solid fa-paint-brush"
+    }
+]

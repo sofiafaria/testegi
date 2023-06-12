@@ -1,0 +1,301 @@
+@font-face {
+    font-family: Sen-Bold;
+    src: url('../resources/fonts/Sen/Sen-Bold.ttf');
+}
+
+@font-face {
+    font-family: Sen;
+    src: url('../resources/fonts/Sen/Sen-Regular.ttf');
+}
+
+:root {
+    --purple: #7c2bda;
+    --purple-light: #f9efff;
+}
+
+.vs-bg-purple{
+    background-color: var(--purple);
+}
+
+.vs-bg-purple-light{
+    background-color: var(--purple-light);
+}
+
+.vs-txt-purple{
+    color: var(--purple);
+}
+
+.vs-txt-purple-light{
+    color: var(--purple-light);
+}
+
+body{
+    font-family: Sen;
+}
+
+h1,h2,h3,h4, h5, h6{
+    font-family: Sen-Bold;
+}
+
+.logo{
+    font-family: Sen-Bold;
+}
+
+.btn{
+    border-radius: 0%;
+    font-size: 1rem;
+}
+
+.btn-bd-primary {
+    --bs-btn-color: var(--bs-black);
+    --bs-btn-bg: var(--bs-warning);
+    --bs-btn-border-color: var(--bs-warning);
+    --bs-btn-hover-bg: var(--bs-yellow);
+    --bs-btn-hover-border-color: var(--bs-white);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+  }
+
+  .card-border:hover{
+    border-color: var(--bs-warning) !important;
+    background-color: var(--bs-warning);
+
+  }
+
+  .custom-link{
+    --bs-text-opacity: 0;
+    color: rgba(var(--bs-black), var(--bs-text-opacity));
+  }
+
+  .authors-link{
+    --bs-text-opacity: 0;
+    color: rgba(var(--bs-white), var(--bs-text-opacity));
+  }
+
+  .introduction{
+    /*background-image: url('/resources/img/close-up-photography-of-man-wearing-sunglasses-1212984Group-People.jpg');  */
+    max-height: calc(80vh - 50px);
+   /* background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: local;*/
+    margin-bottom: 10px;
+    border-radius: 10px;
+    position: sticky;
+    align-items: center;
+    display: flex;
+    justify-content: initial;
+    overflow-y: hidden;
+
+  }
+
+  .img-introduction{
+    width: 100vw;
+  }
+
+  .image-container{
+    width: 90vw;
+    overflow-y: hidden;
+    height: 80vh;
+  }
+
+  .image-full{
+    width: 90vw;
+    object-fit: cover;
+
+
+  }
+
+  .sharp{
+    border-radius:0%;
+  }
+
+  .thumbnail{
+    width: 50px;
+    height: 50px;
+    object-fit: fill;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
+
+  .fill{
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+  }
+
+  .fixed-icon-width{
+    width: 55px;
+    text-align: center;
+  }
+
+    .card-destaque{
+        width: 706px;
+        min-height: 584px;
+        background-size: contain;
+        position: absolute;
+        right: 80px;
+        top: 100px;
+        left: 654px;
+        
+
+
+        
+    }
+
+    .FloydMiles{
+        background-color: lightgray;
+        text-align: center;
+        padding-top: 30px;
+        border: none;
+    }
+
+    .FloydMiles:hover{
+        background-color:#FBF6EA;
+    }
+
+    .whatPeopleSayAboutOurBlog{
+        background-color: #FBF6EA;
+    }
+
+    .line{
+        height: 100%;
+    }
+
+    .img-wrapper{
+        max-width: 100%;
+        height: 65vw;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+
+    }
+
+    .img-carousel{
+        max-width: 100%;
+        max-height:100%;
+    }
+
+    @media screen and (min-width:576px) {
+        .carousel-inner{
+            display: flex;
+        }
+        .carousel-item{
+            display: block;
+            margin-right: 0;
+
+        }
+        .carousel-banner{
+            flex: 0 0 100%;
+            max-height: 100vh;
+        }
+
+        .carousel-posts{
+            flex: 0 0 calc(100%/3);
+        }
+
+        .carousel-categories,
+        .carousel-authors{
+            flex: 0 0 calc(100%/4);
+        }
+
+
+        .img-wrapper{
+            height: 23vw;
+        }
+    }
+
+    .card-carousel{
+        margin: 0 .5em;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        background-color: #e1e1e1;
+        width: 6vh;
+        height: 6vh;
+        border-radius: 50%;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .testimonials-carousel{
+        background-color: #e1e1e1;
+        width: 6vh;
+        height: 6vh;
+        border-radius: 50%;
+        border: none;
+    }
+
+    .testimonials-carousel:hover{
+        background-color: #000
+    }
+  
+   
+    /* Style tab links */
+.tablink {
+  /* background-color: #b3f1a5; */
+  color: rgb(160, 45, 45);
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 33.33%;
+  
+}
+ 
+    /* Style the tab content */
+.tabcontent {
+  color: #232536;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#AboutUs{
+    background-color: #F4F0F8;
+}
+
+#News{
+    background-color: #FFD050;
+}
+
+#Contact{
+    background-color: #592EA9;
+}
+
+.author-thumbnail-wrapper{
+    position:absolute;
+    left: calc(50% - 50px);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+.author-thumbnail{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    vertical-align: middle;
+}
+
+.author-icons{
+    position: relative;
+    left: calc(50% - 60px);
+}
+
+.icon-light{
+    color: whitesmoke !important;
+}
+
+.max-view-height{
+    max-height: 100vh;
+    overflow-y: scroll;
+}
+

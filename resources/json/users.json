@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "jobTitle": "Content Writer",
+        "company": "Libera",
+        "imageURL": "/resources/img/authors/John Doe.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "jobTitle": "Copywriter",
+        "company": "ProseCraft",
+        "imageURL": "/resources/img/authors/Ervin Howell.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "jobTitle": "Content Editor",
+        "company": "ContentVerse",
+        "imageURL": "/resources/img/authors/Clementine Bauch.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "jobTitle": "Content Strategist",
+        "company": "ScribbleHub",
+        "imageURL": "/resources/img/authors/Patricia Lebsack.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Floyd Miles",
+        "jobTitle": "Content Marketing Specialist",
+        "company": "InkScribe",
+        "imageURL": "/resources/img/authors/Floyd Miles.jpg"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "userId": 1,
+        "categoryId": 1,
+        "id": 1,
+        "title": "Step-by-step guide to choosing great font pairs",
+        "summary": "Discover the secrets of combining fonts harmoniously to create visually appealing designs that captivate your audience and elevate your branding to new heights.",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur odio accusamus, laboriosam consequatur qui sequi mollitia aut illo temporibus facilis? Delectus ratione tempora aliquam odit aspernatur impedit dolores reprehenderit recusandae corporis provident possimus debitis veritatis exercitationem, in id suscipit perspiciatis consequuntur dolore mollitia. Voluptas esse numquam iusto veritatis? Eum soluta reprehenderit qui? Asperiores aliquid error, illum vero cupiditate debitis aspernatur consequatur nobis accusantium. Impedit odit aliquid reprehenderit. Consequuntur aperiam quae quam! Harum corporis perferendis ullam vero vel delectus consectetur corrupti animi, quod minus odio fugit excepturi hic rerum, ea veritatis culpa iste in, ex id maiores dignissimos molestiae quis aut!",
+        "imageURL": "/resources/img/coffee.jpg",
+        "featured": false
+    },
+    {
+        "userId": 1,
+        "categoryId": 3,
+        "id": 2,
+        "title": "Design tips for designers that cover everything you need",
+        "summary": "Unlock a treasure trove of design wisdom with expert tips and tricks that encompass everything from color theory and composition to typography and user experience.",
+        "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi doloremque necessitatibus omnis ipsam voluptatibus reprehenderit qui illum placeat rem magnam quibusdam, labore, sed adipisci corrupti impedit fugit quisquam amet commodi.",
+        "imageURL": "/resources/img/workgroup.jpg",
+        "featured": false
+    },
+    {
+        "userId": 2,
+        "categoryId": 1,
+        "id": 3,
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "summary": "Dive into the world of lorem ipsum, its origins, and its role in the design process, exploring the ways it can enhance your creative workflow and streamline communication.",
+        "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur odio accusamus, laboriosam consequatur qui sequi mollitia aut illo temporibus facilis? Delectus ratione tempora aliquam odit aspernatur impedit dolores reprehenderit recusandae corporis provident possimus debitis veritatis exercitationem, in id suscipit perspiciatis consequuntur dolore mollitia. Voluptas esse numquam iusto veritatis? Eum soluta reprehenderit qui? Asperiores aliquid error, illum vero cupiditate debitis aspernatur consequatur nobis accusantium. Impedit odit aliquid reprehenderit. Consequuntur aperiam quae quam! Harum corporis perferendis ullam vero vel delectus consectetur corrupti animi, quod minus odio fugit excepturi hic rerum, ea veritatis culpa iste in, ex id maiores dignissimos molestiae quis aut!",
+        "imageURL": "/resources/img/work.jpg",
+        "featured": true
+    },
+    {
+        "userId": 3,
+        "categoryId": 2,
+        "id": 4,
+        "title": "Lorem ipsum dolor sit amet consectetur.",
+        "summary": "Unveil the hidden meanings behind the lorem ipsum placeholder text and discover how it has become a staple in the design industry, serving as a valuable tool for showcasing visual concepts.",
+        "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi doloremque necessitatibus omnis ipsam voluptatibus reprehenderit qui illum placeat rem magnam quibusdam, labore, sed adipisci corrupti impedit fugit quisquam amet commodi.",
+        "imageURL": "/resources/img/kelvin.jpg",
+        "featured": false
+    },
+    {
+        "userId": 4,
+        "categoryId": 1,
+        "id": 5,
+        "title": "The art of business: Strategies for success",
+        "summary": "mbark on a transformative journey to become a master entrepreneur, navigating the challenges of business ownership while honing essential skills and strategies for success in today's competitive landscape.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, quidem. Voluptas cum atque vel, fugiat quae dolorum voluptatum explicabo sequi ex quidem exercitationem officia obcaecati aliquam distinctio optio minus, quibusdam neque nostrum praesentium eaque. Repellat recusandae excepturi quisquam temporibus dolorem incidunt rem! Aperiam, consequatur fuga nam laborum quisquam eveniet!",
+        "imageURL": "/resources/img/business.jpg",
+        "featured": false
+    },
+    {
+        "userId": 5,
+        "categoryId": 4,
+        "id": 6,
+        "title": "The future of technology: Trends to watch out for",
+        "summary": "Emerging trends in the world of technology: Stay ahead of the curve by unraveling the latest breakthroughs and trends in technology, exploring how they shape our lives, businesses, and the future of innovation.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident dolorem aut modi consequuntur doloribus, dignissimos earum rerum vero iusto minima velit temporibus perspiciatis accusantium, quidem, asperiores delectus exercitationem excepturi? Exercitationem, rem iusto dolore ab amet dolorem perspiciatis ducimus aliquid reiciendis enim laboriosam? Dolor sed tempora dolore, recusandae eaque odit earum!",
+        "imageURL": "/resources/img/technology.jpg",
+        "featured": false
+    },
+    {
+        "userId": 3,
+        "categoryId": 2,
+        "id": 7,
+        "title": "Unleashing creativity: The power of art and design",
+        "summary": "A journey of creativity: Delve into the limitless realm of artistry, pushing the boundaries of your creativity as you explore new mediums, techniques, and unconventional approaches that redefine artistic expression.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, facere aliquid. Quasi consequatur fugit culpa porro ipsam explicabo ullam. Labore dolorum doloribus beatae corporis. Ad saepe aspernatur recusandae odit aliquam consectetur doloremque rem? Iure ex, fugit quae impedit ratione aperiam est asperiores earum itaque perspiciatis obcaecati fugiat quibusdam ullam tempore!",
+        "imageURL": "/resources/img/art.jpg",
+        "featured": false
+    },
+    {
+        "userId": 3,
+        "categoryId": 3,
+        "id": 8,
+        "title": "Taking care of our environment: A collective responsibility",
+        "summary": "A responsibility towards the environment: Embrace the power of sustainability in your everyday life and business practices, understanding the profound impact your choices can have on the environment and future generations.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, aut ipsa! Provident, a optio? Incidunt accusantium, perferendis voluptatum commodi blanditiis accusamus illum architecto perspiciatis esse natus dicta soluta adipisci vel, reprehenderit quasi aliquam iure dolorem dolores excepturi est nesciunt sequi necessitatibus! Corporis voluptate amet est nobis doloremque fugit. Amet, accusamus?",
+        "imageURL": "/resources/img/environment.jpg",
+        "featured": false
+    },
+    {
+        "userId": 1,
+        "categoryId": 4,
+        "id": 9,
+        "title": "Stay ahead with the latest technology updates",
+        "summary": "Emerging trends in the world of technology: Stay ahead of the curve by unraveling the latest breakthroughs and trends in technology, exploring how they shape our lives, businesses, and the future of innovation.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis eos id corporis cum fugit eius earum accusantium est iure nemo rem voluptatum magnam, necessitatibus omnis doloremque architecto aut saepe non repellat repellendus quas laborum aperiam. Possimus quibusdam ipsa modi, nam repellendus suscipit laborum debitis provident dolores quo reiciendis expedita?",
+        "imageURL": "/resources/img/tech-update.jpg",
+        "featured": false
+    },
+    {
+        "userId": 2,
+        "categoryId": 1,
+        "id": 10,
+        "title": "Mastering the art of entrepreneurship",
+        "summary": "Gain invaluable insights and strategies for building a thriving business from the ground up, navigating challenges, and capitalizing on opportunities to achieve sustainable growth and financial independence.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quisquam, qui optio similique dolore, quibusdam itaque beatae nam consequatur eum architecto adipisci expedita rem voluptatum doloribus veniam rerum aut error, voluptate, culpa sed quis! Velit error labore maxime nisi exercitationem? Sed saepe dolor numquam voluptatibus iusto quod neque accusantium adipisci dolorem!",
+        "imageURL": "/resources/img/entrepreneurship.jpg",
+        "featured": false
+    },
+    {
+        "userId": 4,
+        "categoryId": 2,
+        "id": 11,
+        "title": "Exploring the boundaries of art: A journey of creativity",
+        "summary": "Minimalistic design principles: Embrace the elegance of minimalism in design, harnessing the power of simplicity to create impactful and visually stunning compositions that convey your message with clarity and sophistication.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo maiores vitae rerum. Aliquam inventore sapiente voluptatem, distinctio doloribus voluptatibus fugiat culpa qui, quos voluptates libero similique suscipit, eveniet commodi aperiam esse explicabo reiciendis. Sequi soluta minus exercitationem dolore perspiciatis explicabo earum tempora consequuntur, fugiat a quaerat corrupti voluptatibus! Perspiciatis, quos!",
+        "imageURL": "/resources/img/art-boundaries.jpg",
+        "featured": false
+    },
+    {
+        "userId": 5,
+        "categoryId": 3,
+        "id": 12,
+        "title": "Taking a sustainable approach: A responsibility towards the environment",
+        "summary": "Small changes, big impact: Discover how small lifestyle changes and sustainable choices can make a significant positive impact on the environment, from reducing waste and conserving energy to embracing eco-friendly practices in everyday life.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione fugiat corporis quaerat pariatur soluta esse ad eligendi, obcaecati aliquam laborum doloribus provident aspernatur unde eius non voluptatum, laudantium dolorem cumque exercitationem numquam veniam asperiores dolore sequi dolores. Quisquam dolore exercitationem architecto odio officiis? Temporibus sint veritatis similique suscipit placeat reiciendis!",
+        "imageURL": "/resources/img/sustainability.jpg",
+        "featured": false
+    },
+    {
+        "userId": 1,
+        "categoryId": 4,
+        "id": 13,
+        "title": "The future is tech: Emerging trends in the world of technology",
+        "summary": "Shaping the future: Explore the transformative potential of artificial intelligence (AI) as it revolutionizes industries and reshapes our daily lives, opening new possibilities and paving the way for a technologically advanced future.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid neque debitis, vitae dolorum itaque ipsa iste, nobis corrupti eaque molestiae labore qui sequi fugit recusandae explicabo aliquam. Ratione incidunt culpa ipsa! Molestiae necessitatibus accusantium non corrupti facere aspernatur nostrum unde! Dolorem doloribus totam alias esse consequatur harum dolor fugit. Placeat, doloribus!",
+        "imageURL": "/resources/img/future-tech.jpg",
+        "featured": false
+    },
+    {
+        "userId": 2,
+        "categoryId": 1,
+        "id": 14,
+        "title": "Building a successful business from scratch",
+        "summary": "Turning your hobby into a business: Unleash the entrepreneur within you, transforming your passion into a profitable business venture, as you navigate the intricacies of market research, branding, and strategic growth.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quae adipisci aut! Dolorem aliquid est accusantium facilis nulla! Accusamus, quae nobis voluptatem totam atque, debitis similique ratione porro amet quam cum temporibus quod iusto reprehenderit rem impedit. Fugiat voluptas ducimus praesentium magni voluptatum fugit odit accusantium asperiores illo perferendis? Ipsum, ex!",
+        "imageURL": "/resources/img/business-success.jpg",
+        "featured": false
+    },
+    {
+        "userId": 5,
+        "categoryId": 2,
+        "id": 15,
+        "title": "The beauty of simplicity: Minimalistic design principles",
+        "summary": "Innovative designs that inspire: Embark on a captivating journey through architectural marvels and groundbreaking designs, drawing inspiration from visionary architects who push the boundaries of creativity and reshape our built environment.",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex doloribus est voluptatem earum rerum libero architecto animi totam quis labore consequatur, quae voluptates quidem rem doloremque, quod impedit illum repellendus! Molestiae asperiores eum cum soluta possimus sequi vitae. Incidunt, dolorum sed maxime ad esse numquam odio doloribus placeat rerum!",
+        "imageURL": "/resources/img/minimalistic-design.jpg",
+        "featured": false
+    },
+    {
+        "userId": 4,
+        "categoryId": 3,
+        "id": 16,
+        "title": "Preserving nature: The importance of sustainable practices",
+        "summary": "",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum a alias, fugit doloribus modi molestiae rem aperiam exercitationem esse ullam veritatis. Veniam adipisci repellendus laborum accusantium dignissimos doloribus impedit animi ipsa, officiis iusto praesentium est odio, repellat eius porro necessitatibus libero consequuntur sunt reprehenderit temporibus natus molestiae explicabo! Soluta, earum?",
+        "imageURL": "/resources/img/nature-preservation.jpg",
+        "featured": false
+    }
+]
